@@ -39,8 +39,3 @@ To become a **world-class software engineer** who creates products that balance:
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Omardozer&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Omardozer&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
