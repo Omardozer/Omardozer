@@ -1,5 +1,3 @@
-## 👋 About Me
-
 Hi, I'm **Omar Ismail** — a **Software Engineer** with a background in **Product Design**, currently evolving into a **Full-Stack Software Engineer**.
 
 I combine **product thinking, user-centered design, and software development** to build digital products that are not only functional but meaningful. My experience spans from leading design systems and user experiences to developing scalable applications using modern technologies.
