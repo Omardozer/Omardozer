@@ -11,7 +11,7 @@ I combine **product thinking, user-centered design, and software development** t
 
 ### 🛠 Tech Stack
 **Frontend:** React, Next, Angular, JavaScript, TypeScript, HTML, CSS  
-**Backend:** .NET, C#, REST APIs  
+**Backend:** .NET, C#, Java, Spring, Python, REST APIs  
 **Database:** SQL Server  
 **Design:** Figma
 **Tools:** Git, GitHub, Postman, Jira  
