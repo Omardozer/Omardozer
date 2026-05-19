@@ -5,7 +5,7 @@ I combine **product thinking, user-centered design, and software development** t
 ### 🚀 What I Do
 - 💻 Build web applications using **React, .NET, SQL Server**
 - 🎨 Design intuitive user experiences with a business-driven mindset  
-- 🧠 Solve real-world problems through clean architecture and smart systems
+- 🧠 Solve real-world problems
 - 📊 Bridge the gap between **design, product, and engineering**
 - 🔍 Continuously learn and improve through hands-on projects
 
